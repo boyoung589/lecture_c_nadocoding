@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void){// 한 프로젝트 내에서 main 함수는 하나만!
+int main_loop(void){// 한 프로젝트 내에서 main 함수는 하나만!
   /**
    * ++
     int a = 10;
